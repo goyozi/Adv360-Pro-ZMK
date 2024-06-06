@@ -1,0 +1,36 @@
+[
+	{
+		"names": [
+			"LEFT_COMMAND(L_ALT)"
+		],
+		"description": "LEFT_COMMAND(L_ALT)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LEFT_COMMAND(LALT)"
+		],
+		"description": "LEFT_COMMAND(LALT)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
